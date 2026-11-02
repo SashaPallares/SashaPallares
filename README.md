@@ -1,16 +1,20 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Sasha Pallares
 
-<!--
-**SashaPallares/SashaPallares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Full Stack Developer | Mi zona fav: React & JavaScript
 
-Here are some ideas to get you started:
+Apasionada por crear interfaces limpias, accesibles y funcionales. Siempre pienso en cómo impacta el desarrollo en el usuario.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologías y Herramientas
+- **Frontend:** JavaScript, React, Vite, HTML5, CSS3, Tailwind CSS.
+- **Backend:** Python, RESTful APIs.
+- **Bases de Datos:** MongoDB
+- **Control de Versiones:** Git, GitHub.
+- **Herramientas:** VS Code.
+
+---
+
+### 📫 ¿Cómo contactarme?
+- **LinkedIn:** https://www.linkedin.com/in/sashapallares/
+- **Email:** sashaailenpall@gmail.com
